@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Akashwakade
-- 👀 I’m interested in travelling, 
+- 👋 Hi!(salut!), I’m @Akashwakade (j'suis Akash wakade)
+- 👀 I’m interested in travelling, reading, learning new things. 
 - 🌱 I’m currently learning coding.
+- 😎 I know the basic of French language.
+- 🤵  I did P.G. in Master in tourism and travel management.
+-     I also have English stenography sill.
 - 💞️ I’m looking to collaborate with new ones.
 - 📫 How to reach me whatsapp no. 8482975339
 - 
