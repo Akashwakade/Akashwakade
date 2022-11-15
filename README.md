@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding.
 - 😎 I know the basic of French language.
 - 🤵  I did P.G. in Master in tourism and travel management.
-- 📝 I also have English stenography sill.
+- 📝 I also have English stenography skill.
 - 💞️ I’m looking to collaborate with new ones.
 - 📫 How to reach me whatsapp no. 8482975339
  
