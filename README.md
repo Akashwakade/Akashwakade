@@ -6,8 +6,7 @@
 - 📝 I also have English stenography skill.
 - 💞️ I’m looking to collaborate with new ones.
 - 📫 How to reach me whatsapp no. 8482975339
-- linkedIn https://www.linkedin.com/in/akash-wakade-83a371202/
-- portFolio https://Akashwakade.github.io
+
 
 <!---
 Akashwakade/Akashwakade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
