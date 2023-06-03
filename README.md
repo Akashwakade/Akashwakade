@@ -6,6 +6,7 @@
 - 📝 I also have English stenography skill.
 - 💞️ I’m looking to collaborate with new ones.
 - 📫 How to reach me whatsapp no. 8482975339
+- linkedin https://www.linkedin.com/in/akash-wakade-83a371202/
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akashwakade)](https://git.io/streak-stats)
 
