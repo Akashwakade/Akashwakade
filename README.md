@@ -6,6 +6,7 @@
 - 📝 I also have English stenography skill.
 - 💞️ I’m looking to collaborate with new ones.
 - 📫 How to reach me whatsapp no. 8482975339
+- My github streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akashwakade)](https://git.io/streak-stats)
 
 <!---
