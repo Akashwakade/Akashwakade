@@ -8,7 +8,8 @@
 - 📫 How to reach me whatsapp no. 8482975339
 - My github streak
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Akashwakade)](https://git.io/streak-stats)
-![GitHub Contribution Calendar](https://github-readme-calendar.herokuapp.com/Akashwakade)
+-languages
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashwakade)](https://github.com/Akashwakade/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akashwakade)](https://github.com/Akashwakade/github-readme-stats)
 
 
