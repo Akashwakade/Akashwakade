@@ -1,4 +1,5 @@
 - linkedin https://www.linkedin.com/in/akash-wakade-83a371202/
+- you can find more about me here https://akashwakade.github.io/
 - 👋 Hi!(salut!), I’m @Akashwakade (j'suis Akash wakade)
 - 👀 I’m interested in travelling, reading, learning new things. 
 - 🌱 I’m currently learning coding.
