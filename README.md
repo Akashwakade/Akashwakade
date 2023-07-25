@@ -16,7 +16,7 @@
 - lnkedIN https://www.linkedin.com/in/akash-wakade-83a371202/
   
 
-- you can find more about me here "https://akashwakade.github.io"
+- you can find more about me here "https://akashwakade.github.io"](https://stellar-lamington-861ee2.netlify.app
 
 - ⚡ Fun fact **I think I am a philosopher**
 
