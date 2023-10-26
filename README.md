@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akashbwakade@gmail.com**
   
-- lnkedIN https://www.linkedin.com/in/akash-wakade-83a371202/
+- linkedIN https://www.linkedin.com/in/akash-wakade-83a371202/
   
 
 - you can find more about me here https://akashwakade.github.io/
