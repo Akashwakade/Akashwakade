@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I think I am a philosopher**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Mobile Number 8482975339 </h3>
 <p align="left">
 </p>
 
